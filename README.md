@@ -6,7 +6,8 @@ The website employs JavaScript to fetch news articles from the News API. Users c
 
 If there are no news articles available for the selected category and country, the website displays an error message. Similarly, if there is an error retrieving the news articles, an error message is also displayed.
 
-{{\color{red}Please note that to fully experience the website and its features, you will need to use your own API key from News API. I recommend obtaining your own API key and modifying the code accordingly for your own use.}}
+
+<span style="background-color: red">Please note that to fully experience the website and its features, you will need to use your own API key from News API. I recommend obtaining your own API key and modifying the code accordingly for your own use.</span>
 
 `Desktop sample`:![desktop](https://user-images.githubusercontent.com/103477351/235559210-bd255700-b49e-47b5-a391-ae6976c7f4a9.png)
 
