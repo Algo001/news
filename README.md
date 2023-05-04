@@ -9,6 +9,19 @@ If there are no news articles available for the selected category and country, t
 
 **Please note that to fully experience the website and its features, you will need to use your own API key from News API. I recommend obtaining your own API key and modifying the code accordingly for your own use.**
 
+<table>
+  <tr>
+    <td>Phone</td>
+    <td><img src="https://user-images.githubusercontent.com/103477351/235559228-d0b34ad8-0145-4c0d-8c4d-dc90b952ac95.png" ></td>
+    <td><img src="https://user-images.githubusercontent.com/103477351/235559242-19c6716d-318e-4875-8782-7ed2dc126bbf.png" ></td>
+
+  </tr>
+  <tr>
+    <td>Desktop</td>
+    <td><img src="https://user-images.githubusercontent.com/103477351/235559210-bd255700-b49e-47b5-a391-ae6976c7f4a9.png" ></td>
+  </tr>
+</table>
+
 `Desktop sample`:![desktop](https://user-images.githubusercontent.com/103477351/235559210-bd255700-b49e-47b5-a391-ae6976c7f4a9.png)
 
 
